@@ -1,5 +1,4 @@
 # Secrets
-.env
 *.env
 !.env.example
 
@@ -16,5 +15,5 @@ frontend/dist/
 
 # OS / editor
 .DS_Store
-.vscode/
 .idea/
+config.bat
